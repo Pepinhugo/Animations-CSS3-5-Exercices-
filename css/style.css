@@ -226,7 +226,7 @@ figure:hover figcaption {
 }
 
 
-@media screen (min-width: 320px) {
+@media screen and (min-width: 320px) {
 	body{
 	font-family: 'Arial';
 	width: auto;
